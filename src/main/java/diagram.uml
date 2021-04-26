@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement />
+  <nodes>
+    <node x="272.0" y="80.0">Dao.ProductDao</node>
+    <node x="124.0" y="0.0">Dao.AbstractDAO</node>
+    <node x="0.0" y="230.0">Incepe.Reflection</node>
+    <node x="132.0" y="80.0">Dao.ClientDao</node>
+    <node x="0.0" y="80.0">Dao.OrderDao</node>
+    <node x="157.0" y="380.0">Model.Comanda</node>
+    <node x="141.0" y="455.0">Model.Bill</node>
+    <node x="173.0" y="230.0">Prezentare.ClientView</node>
+    <node x="0.0" y="455.0">Model.Client</node>
+    <node x="266.0" y="455.0">Prezentare.View</node>
+    <node x="306.0" y="380.0">Model.Product</node>
+    <node x="346.0" y="230.0">Prezentare.Controller</node>
+    <node x="173.0" y="305.0">Bll.ClientBll</node>
+    <node x="0.0" y="305.0">Bll.ProductBll</node>
+    <node x="338.0" y="305.0">Prezentare.OrderView</node>
+    <node x="391.0" y="455.0">Incepe.Main</node>
+    <node x="229.0" y="155.0">Prezentare.ProductView</node>
+    <node x="0.0" y="380.0">Bll.OrderBll</node>
+    <node x="0.0" y="155.0">Conexiune.ConnectionFactory</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="Dao.OrderDao" target="Dao.AbstractDAO">
+      <point x="0.0" y="-15.0" />
+      <point x="56.0" y="55.0" />
+      <point x="146.66666666666666" y="55.0" />
+      <point x="-45.333333333333336" y="15.0" />
+    </edge>
+    <edge source="Dao.ProductDao" target="Dao.AbstractDAO">
+      <point x="0.0" y="-15.0" />
+      <point x="336.0" y="55.0" />
+      <point x="237.33333333333334" y="55.0" />
+      <point x="45.33333333333334" y="15.0" />
+    </edge>
+    <edge source="Dao.ClientDao" target="Dao.AbstractDAO">
+      <point x="0.0" y="-15.0" />
+      <point x="0.0" y="15.0" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="389.5" y="9.5" />
+  <SelectedNodes />
+  <Categories />
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
