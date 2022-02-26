@@ -1,4 +1,4 @@
 numeClient: Costea Paula 
-numeProdus: mere 
-cantitate: 1
-pret total: 2.0
+numeProdus: piersici 
+cantitate: 100
+pret total: 500.0

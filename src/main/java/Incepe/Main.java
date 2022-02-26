@@ -13,7 +13,7 @@ import java.util.logging.Level;
 import java.util.logging.Logger;
 
 /**
- * @author Costea Paula, grupa 302210
+ * @author Costea Paula
  * @since Aprilie, 2021
  */
 public class Main {

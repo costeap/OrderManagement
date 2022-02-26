@@ -7,7 +7,7 @@ import java.awt.*;
 import java.awt.event.ActionListener;
 
 /**
- * @author Costea Paula, grupa 302210
+ * @author Costea Paula
  * @since Aprilie, 2021
  */
 public class OrderView extends JFrame {

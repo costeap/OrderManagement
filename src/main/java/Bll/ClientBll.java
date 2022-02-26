@@ -8,8 +8,8 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 /**
- * @author Costea Paula, grupa 302210
- * @since Aprilie, 302210
+ * @author Costea Paula
+ * @since Aprilie
  */
 public class ClientBll {
 

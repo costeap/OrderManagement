@@ -8,7 +8,7 @@ import java.util.List;
 import java.util.NoSuchElementException;
 
 /**
- * @author Costea Paula, grupa 302210
+ * @author Costea Paula
  * @since Aprilie, 2021
  */
 public class ProductBll {

@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * @author Costea Paula, grupa 302210
+ * @author Costea Paula
  * @since Aprilie, 2021
  */
 public class Reflection {
